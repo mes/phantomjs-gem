@@ -98,7 +98,7 @@ module Phantomjs
         end
 
         def package_url
-          'https://github.com/mes/phantomjs-gem/phantomjs/phantomjs-2.1.1-linux-x86_64.tar.bz2'
+          'https://raw.githubusercontent.com/mes/phantomjs-gem/master/phantomjs/phantomjs-2.1.1-linux-x86_64.tar.bz2'
         end
       end
     end
@@ -114,7 +114,7 @@ module Phantomjs
         end
 
         def package_url
-          'https://github.com/mes/phantomjs-gem/phantomjs/phantomjs-2.1.1-linux-i686.tar.bz2'
+          'https://raw.githubusercontent.com/mes/phantomjs-gem/master/phantomjs/phantomjs-2.1.1-linux-i686.tar.bz2'
         end
       end
     end
